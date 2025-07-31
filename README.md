@@ -90,7 +90,8 @@ select count(*) from retail_sales;
 ```
 **3. Data Analysis & Findings**
 The following SQL queries were developed to answer specific business questions:
-``` sql--HOW MUCH SALES DO WE HAVE?
+```sql
+--HOW MUCH SALES DO WE HAVE?
 SELECT COUNT(*) as Total_Sales FROM retail_sales;
 
 --HOW MANY CUSTOMERS WE HAVE?
