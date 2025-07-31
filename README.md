@@ -29,7 +29,7 @@ CREATE TABLE retail_sales (transactions_id	INT PRIMARY KEY,
                           cogs	FLOAT,
                           total_sale FLOAT
                           ) ;
-                          ```
+```
                           
 **2. Data Exploration & Cleaning**
 Record Count: Determine the total number of records in the dataset.
